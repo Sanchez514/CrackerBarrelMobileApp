@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "body-parser": "^1.18.3",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "express": "^4.16.4",
     "firebase": "^5.10.1",
     "lodash": "^4.17.11",
